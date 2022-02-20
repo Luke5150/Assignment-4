@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Luke Hensley)
+ * (Prototype 3)
+ * (Checks when to add score)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

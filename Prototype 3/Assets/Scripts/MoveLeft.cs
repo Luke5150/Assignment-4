@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Luke Hensley)
+ * (Prototype 3)
+ * (Makes objects move left)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

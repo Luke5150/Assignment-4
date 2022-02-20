@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Luke Hensley)
+ * (Prototype 3)
+ * (Controls the UI text)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
